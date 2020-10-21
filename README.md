@@ -4,7 +4,7 @@ Codingbat.com Python Solutions. These are my own solutions, not necessarily the 
 # Warmup-1
 
 ## sleep_in
-```
+```python
 def sleep_in(weekday, vacation):
   if weekday == False or vacation == True:
     return True
